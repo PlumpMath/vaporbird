@@ -5,7 +5,7 @@ Ever wanted to listen to MACINTOSH PLUS - リサフランク420 / 現代のコ�
 /music plays
 
 
-### Build
+## Build
 ```
 $ gradlew desktop:dist
 ```
