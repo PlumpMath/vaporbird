@@ -9,4 +9,4 @@ Ever wanted to listen to MACINTOSH PLUS - リサフランク420 / 現代のコ�
 ```
 $ gradlew desktop:dist
 ```
-
+* executable jar will appear on desktop\build\libs
